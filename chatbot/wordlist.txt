@@ -1,0 +1,4 @@
+halo|hai!
+hai|halo!
+exit|goodbye!
+lagi apa|gataw.
